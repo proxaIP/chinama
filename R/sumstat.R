@@ -1,4 +1,4 @@
 testfunction <- function(x,y){
   a <- x*y
-  a
+  b <-  z + 1
 }
