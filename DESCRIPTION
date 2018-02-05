@@ -1,0 +1,11 @@
+Package: chinama
+Type: Package
+Title: China AM analysis 
+Version: 0.1.0
+Date: 2018-02-05
+Author: person("Booth","Stephen",email = sbooth20@gmail.com)
+Maintainer: Stephen Booth <sbooth20@gmail.com>
+Description: A set of tools for analyzing and visualizing Chinese financial market data
+License: MIT
+Encoding: UTF-8
+LazyData: true
